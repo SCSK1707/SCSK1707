@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SCSK1707
+- 👋 Hi, I’m Santhana Krishnan
 - 👀 I’m interested in Data Science Using ML and AI
 - 🌱 I’m currently learning Machine Learning
   
